@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "simpleHoChun",
-    "repositoryName": "blog",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"simpleHoChun","repositoryName":"blog","branch":"gh-pages","delay":"200"},"site":{"title":"web developers ","url":"https://simpleHoChun.github.io/blog"},"socialnetwork":{},"theme":{"name":"Casper","url":"//simpleHoChun.github.io/blog/themes/Casper"}}
